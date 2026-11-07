@@ -1,0 +1,14 @@
+name: innerscape-coach
+version: 0.1.0
+description: "Profile-shared local SQLite coaching ledger and static first-contact protocol. Briefs reach the configured model provider. Gateway writes denied unless explicitly enabled."
+author: KyaniteLabs
+license: Apache-2.0
+homepage: https://github.com/KyaniteLabs/innerscape-coach
+provides_tools: [coach_checkin, coach_goal, coach_habit, coach_unstuck, coach_brief]
+provides_hooks: [pre_llm_call, post_tool_call]
+capabilities: []
+config_schema:
+  allow_gateway_writes:
+    type: bool
+    default: false
+    description: Allow shared-ledger mutations from gateway and unknown platforms
