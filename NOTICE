@@ -1,0 +1,11 @@
+Innerscape Coach
+Copyright 2026 KyaniteLabs
+
+This product includes verbatim rules.md from KyaniteLabs/unstuck-coach-protocol,
+revision 5412d80df6d64ca853dfb804354029a26e1df952:
+https://github.com/KyaniteLabs/unstuck-coach-protocol/blob/5412d80df6d64ca853dfb804354029a26e1df952/rules.md
+Bundled without modification as skills/innerscape-coach/protocol.md.
+Copyright 2026 KyaniteLabs. Licensed under Apache License, Version 2.0;
+the full upstream license is retained in LICENSE.
+The plugin's Python implementation is new; no Innerscape TypeScript or MIT
+material from unstuck-coach-protocol-live is included.
