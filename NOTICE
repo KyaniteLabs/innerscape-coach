@@ -1,11 +1,22 @@
 Innerscape Coach
-Copyright 2026 KyaniteLabs
+Copyright 2026 Kyanite Labs
 
-This product includes verbatim rules.md from KyaniteLabs/unstuck-coach-protocol,
+This product includes software developed at Kyanite Labs and is licensed under
+the Apache License, Version 2.0. A copy of the License is included in this
+repository as LICENSE.
+
+This product includes verbatim material from KyaniteLabs/unstuck-coach-protocol,
 revision 5412d80df6d64ca853dfb804354029a26e1df952:
 https://github.com/KyaniteLabs/unstuck-coach-protocol/blob/5412d80df6d64ca853dfb804354029a26e1df952/rules.md
-Bundled without modification as skills/innerscape-coach/protocol.md.
-Copyright 2026 KyaniteLabs. Licensed under Apache License, Version 2.0;
-the full upstream license is retained in LICENSE.
-The plugin's Python implementation is new; no Innerscape TypeScript or MIT
-material from unstuck-coach-protocol-live is included.
+
+  - skills/innerscape-coach/protocol.md is an unmodified copy of rules.md from
+    that revision (sha256 b422225cc9e366ffc30c93e61c6d9b1420a41536a18053e017b14777a50808bd).
+  - The upstream Apache License, Version 2.0 is retained unmodified as LICENSE
+    (sha256 a3904347a1a32a87d63233a218a7d757eaf6b8f3b629f8c2bb9578dbcc7d4abe).
+    Upstream copyright notice: Copyright 2026 KyaniteLabs.
+
+The "Unstuck Coach" protocol is authored and owned by Simon Gonzalez de Cruz /
+Kyanite Labs. "Unstuck Coach" and "Innerscape" are marks of Kyanite Labs.
+
+No Innerscape TypeScript source code is included in this repository, and no
+material from KyaniteLabs/unstuck-coach-live (MIT) is included either.
